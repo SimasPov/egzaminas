@@ -7,7 +7,8 @@
 @include('includes/nav')
 
 <!-- Main jumbotron for a primary marketing message or call to action -->
-<br>
+
+@include('includes/header')
 
 <div class="container">
     <!-- Example row of columns -->
